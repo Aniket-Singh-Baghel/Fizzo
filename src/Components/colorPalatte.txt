@@ -1,0 +1,30 @@
+Color Usage
+Primary Color (#E0F7FA - Light Blue)
+
+Backgrounds: Use for sections or backgrounds to create a fresh and light feel.
+Headers/Footers: Apply to headers or footers for a cohesive look.
+Cards/Containers: Use for cards or containers to add a subtle color distinction.
+Secondary Color (#E8F5E9 - Soft Mint)
+
+Section Backgrounds: Ideal for background colors of secondary sections or features to provide contrast with the primary color.
+Hover Effects: Apply on hover effects for interactive elements.
+Sidebars/Content Areas: Use for sidebars or content areas to highlight or separate sections.
+Accent Color (#00BFAE - Bright Aqua)
+
+Buttons: Apply to call-to-action buttons to make them stand out.
+Links: Use for hyperlinks to make them noticeable.
+Icons/Highlights: Use for icons or highlights to draw attention.
+Background Color (#F5F5F5 - White Smoke)
+
+Page Background: Use for the overall page background to keep the design light and clean.
+Content Areas: Apply to content areas to maintain readability and a clean look.
+Form Backgrounds: Use for form backgrounds or input fields to keep them distinct.
+Text Color (#333333 - Charcoal Gray)
+
+Main Text: Use for all primary text to ensure readability against lighter backgrounds.
+Headings: Apply to headings to make them prominent and legible.
+Subtext: Use for secondary text or less important information for better readability.
+Button Color (#C6FF00 - Lime Green)
+
+Call-to-Action Buttons: Use for buttons to grab attention and encourage user interaction.
+Highlight Elements: Apply to key interactive elements or notifications to make them stand out.

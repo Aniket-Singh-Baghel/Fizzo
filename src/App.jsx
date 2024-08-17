@@ -1,14 +1,20 @@
 import Hero from "./Components/Hero";
 import Navbar from "./Components/Navbar";
 import Marqee from "./Components/marqee";
-import './index.css'
+import LocomotiveScroll from "locomotive-scroll";
+import "./index.css";
+import Flavours from "./Components/Flavours";
+
 function App() {
+  const locomotiveScroll = new LocomotiveScroll();
   return (
-    <main className="w-full h-[100vh]">
+    <main className="bg-[#E8F5E9]">
       <Navbar />
-      <Hero/>
+      <Hero />
       <Marqee />
+      <Flavours/>
     </main>
   );
 }
 export default App;
+

@@ -1,7 +1,10 @@
+import logo from "../assets/logo1.png"
+import logo2 from "../assets/logo2.png"
+
 function Navbar() {
   return (
-    <div className="w-full bg-[#f8feff] flex justify-between py-3 px-20 text-[#333333]">
-      <h1 className="capitalize text-xl">fizzo</h1>
+    <div className="w-full bg-[#f8feff] flex justify-between py-3 px-16 text-[#333333] outline-none fixed z-[999]">
+      <img src={logo} alt="logo" className="h-10"/>
       <div className="links flex gap-12">
         {["Flavours", "Shop", "About Us", "Blog", "contact Us"].map(
           (i, index) => {
